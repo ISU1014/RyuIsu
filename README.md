@@ -11,16 +11,16 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: ryuuuu333@naver.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/ISU1014
 
 </br>
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-BigData-19/SNS)
 >나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>개발 기간: 2023.11.25 ~ 2023.12.12 
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
